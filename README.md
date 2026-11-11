@@ -11,3 +11,5 @@ Build on Linux with dpkg-dev, apt-utils, gzip and bzip2: `bash scripts/build-rep
 ## Included packages
 
 - **CCSupport 1.3.13-2** — Lars Fröder / opa334; iPhone rootful and rootless builds. Original repository: https://opa334.github.io/ ; source: https://github.com/opa334/CCSupport ; [MIT license](licenses/CCSupport-MIT.txt). The .deb files match the SHA-256 hashes in the original APT index. This is a support library for Control Center modules and requires compatible jailbreak dependencies.
+- **AltList 1.0.10** — opa334; rootful and rootless. [Source](https://github.com/opa334/AltList) · [MIT license](licenses/AltList-MIT.txt).
+- **Choicy 1.5.4-2** — opa334; rootful and rootless. [Source](https://github.com/opa334/Choicy) · [MIT license](licenses/Choicy-MIT.txt). Requires AltList, PreferenceLoader and a compatible tweak loader.
