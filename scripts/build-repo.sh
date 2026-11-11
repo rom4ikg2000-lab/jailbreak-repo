@@ -4,6 +4,8 @@ cd "$(dirname "$0")/.."
 out=${1:-public}
 if [ -e "$out" ]; then echo "Output already exists: $out" >&2; exit 1; fi
 mkdir -p "$out/debs"
+cp -R licenses "$out/licenses"
+cp poomsmart-packages.json "$out/poomsmart-packages.json"
 find debs -type f -name '*.deb' -print0 | while IFS= read -r -d '' package; do
   arch=$(dpkg-deb -f "$package" Architecture)
   case "$arch" in iphoneos-arm|iphoneos-arm64|all) ;; *) echo "Unsupported architecture $arch: $package" >&2; exit 1;; esac

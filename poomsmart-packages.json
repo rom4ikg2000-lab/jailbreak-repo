@@ -1,0 +1,1198 @@
+[
+  {
+    "package": "com.ps.advancedmapenabler",
+    "project": "AdvancedMapEnabler-iOS",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/AdvancedMapEnabler-iOS",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-AdvancedMapEnabler-iOS-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.advancedmapenabler_1.0.0_iphoneos-arm64.deb",
+        "sha256": "c5f65f0cdfa0884d8e2c97297c7d33a45f191d01fa165bf8a70dcfe9bba39798"
+      },
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.advancedmapenabler_1.0.0_iphoneos-arm.deb",
+        "sha256": "bdd9bf631bb15ef98e67742905cb4407b3bcbe1b3f7461472b02358b63395751"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.amber",
+    "project": "Amber",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/Amber",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-Amber-MIT.txt",
+    "builds": [
+      {
+        "version": "1.3.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.amber_1.3.0_iphoneos-arm.deb",
+        "sha256": "f2c6bf7b74496951987125e711927de7dc7a082575dd4fe12392a9a111dc1b9b"
+      },
+      {
+        "version": "1.3.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.amber_1.3.0_iphoneos-arm64.deb",
+        "sha256": "3edecfd6c8e3fd731307e4d79a8e606751ac66c58eb09facd8e7b1e4d7e4c82b"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.ambercctoggle",
+    "project": "AmberCCToggle",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/AmberCCToggle",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-AmberCCToggle-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.ambercctoggle_1.0.0_iphoneos-arm.deb",
+        "sha256": "a83295589ae7769a65fd1e9a36470230eef1552576b5d7e659c9622b77987151"
+      },
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.ambercctoggle_1.0.0_iphoneos-arm64.deb",
+        "sha256": "f5b97ad6e7f2f8bbeef5189a4ecc0bd8f7807b8d8cfb79535c6fb50ad90eb0af"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.anywherewidgetsforipad",
+    "project": "Anywhere-Widgets-for-iPad",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/Anywhere-Widgets-for-iPad",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-Anywhere-Widgets-for-iPad-MIT.txt",
+    "builds": [
+      {
+        "version": "1.4.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.anywherewidgetsforipad_1.4.0_iphoneos-arm.deb",
+        "sha256": "be0c60a3079a37eb2dbfbc8ce643240991cd8fbde058eb29cff366e1dc26b232"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.appcolorclose",
+    "project": "AppColorClose",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/AppColorClose",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-AppColorClose-MIT.txt",
+    "builds": [
+      {
+        "version": "1.2.4",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.appcolorclose_1.2.4_iphoneos-arm64.deb",
+        "sha256": "c8520cd8b12314a3caf76cda5dfcf4a8401d43139147afea77b968ba7162027e"
+      },
+      {
+        "version": "1.2.4",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.appcolorclose_1.2.4_iphoneos-arm.deb",
+        "sha256": "f7d131e4e46ca3f2ab4de81d7f74cbef147ce1be2643932bf65e010065a3cd81"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.apppad",
+    "project": "AppPad",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/AppPad",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-AppPad-MIT.txt",
+    "builds": [
+      {
+        "version": "1.1.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.apppad_1.1.1_iphoneos-arm.deb",
+        "sha256": "502b3f1d18c2434aba73ad449ac79ec24896c546aa873695e21ad902ba12e4a6"
+      },
+      {
+        "version": "1.1.2",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.apppad_1.1.2_iphoneos-arm64.deb",
+        "sha256": "09a5e6d91d2f1aa12b7d299183ec383f626309dddf870125f6522eb72d38dc91"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.backupdfix10",
+    "project": "backupdfix10",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/backupdfix10",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-backupdfix10-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.backupdfix10_1.0.1_iphoneos-arm.deb",
+        "sha256": "084a667f52906a08a9a823e278ba8afb6a9f6016e948143e25bb96d2334caa09"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.batteryhealthenabler",
+    "project": "Battery-Health-Enabler",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/Battery-Health-Enabler",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-Battery-Health-Enabler-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64.deb",
+        "sha256": "e69996de5ca92e7808f28792ac64a6744bd7da607a7eb199f1128c08aeb229ad"
+      },
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm.deb",
+        "sha256": "b151ef91a78429568b02d90760728e79bc6ab2abdd0979baf478fa60fd8e6a33"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.blockemall",
+    "project": "BlockEmAll",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/BlockEmAll",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-BlockEmAll-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.blockemall_1.0.0_iphoneos-arm.deb",
+        "sha256": "8e27e0cb7527bdf644f8be476b93ffb7286bd5d2b5c73782bef86e045dcd0e35"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.blurrybadges",
+    "project": "BlurryBadges",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/BlurryBadges",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-BlurryBadges-MIT.txt",
+    "builds": [
+      {
+        "version": "1.5.4",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.blurrybadges_1.5.4_iphoneos-arm64.deb",
+        "sha256": "f8495f9e02ecad36c0be13c7af8c50d99d5fc08e7a7323356d6c4ddbe86dd5c4"
+      },
+      {
+        "version": "1.5.4",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.blurrybadges_1.5.4_iphoneos-arm.deb",
+        "sha256": "5d30c1d5d72834b2e57f970a1b7bc1020f40a524c947c27977febd544ffdcc34"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.cahighfps",
+    "project": "CAHighFPS",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/CAHighFPS",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-CAHighFPS-MIT.txt",
+    "builds": [
+      {
+        "version": "1.4.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.cahighfps_1.4.0_iphoneos-arm.deb",
+        "sha256": "855c59fcc5e812d4c3aeda43d157493f3bce902a94a1a417bb43fef63348045b"
+      },
+      {
+        "version": "1.4.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.cahighfps_1.4.0_iphoneos-arm64.deb",
+        "sha256": "4eb1cbb2fe422e23337d274ba23ed9cfae8caaf88bbb8f969635d350795d5e49"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.cconandoff",
+    "project": "CCOnOff",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/CCOnOff",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-CCOnOff-MIT.txt",
+    "builds": [
+      {
+        "version": "1.1.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.cconandoff_1.1.0_iphoneos-arm.deb",
+        "sha256": "fa106b7d36badfdb83dfe0b045db5bdb676f0dfe0654401e8339524cbff73393"
+      },
+      {
+        "version": "1.1.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.cconandoff_1.1.0_iphoneos-arm64.deb",
+        "sha256": "9bdcc2d78cfb71045dc3b24ab4079a20e3c5897f990377f6e657edf785ab26c2"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.chatgptweblegacycompat",
+    "project": "ChatGPTWebLegacyCompat",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/ChatGPTWebLegacyCompat",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-ChatGPTWebLegacyCompat-MIT.txt",
+    "builds": [
+      {
+        "version": "1.3.13",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.chatgptweblegacycompat_1.3.13_iphoneos-arm64.deb",
+        "sha256": "1c89da44e511b795166f2b85e9713941a49c8db75283de5adf543fbcb6ae530e"
+      },
+      {
+        "version": "1.3.13",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.chatgptweblegacycompat_1.3.13_iphoneos-arm.deb",
+        "sha256": "2bd0073682c88ecc3c25cd3bf52cc72cf03cde80e580d6c424a532e3dec8d93d"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.coreroutine14-17fix",
+    "project": "CoreRoutine14_17Fix",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/CoreRoutine14_17Fix",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-CoreRoutine14_17Fix-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.coreroutine14-17fix_1.0.0_iphoneos-arm64.deb",
+        "sha256": "cc23bd542a44fe928ca147e182472106b9ae95989025898e5e37c262dbb11386"
+      },
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.coreroutine14-17fix_1.0.0_iphoneos-arm.deb",
+        "sha256": "5f1c957b8eee469d38ebb2cf8e9c9fc00e63aba9f7207032be7ddaa76aee29cb"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.cyarchfix",
+    "project": "cyarchfix",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/cyarchfix",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-cyarchfix-MIT.txt",
+    "builds": [
+      {
+        "version": "1.1.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.cyarchfix_1.1.0_iphoneos-arm.deb",
+        "sha256": "ba5974d93c2c03affa981a699918855db2945c48b53680b3b2bd1c851bc9fd73"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.efmfontdl",
+    "project": "EFM-Font-Downloader",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EFM-Font-Downloader",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EFM-Font-Downloader-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.6",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.efmfontdl_1.0.6_iphoneos-arm64.deb",
+        "sha256": "60b2e342f582c99fdacb3515c88655dda1f905e008fc4fac4bbdf49e507f6e42"
+      },
+      {
+        "version": "1.0.6",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.efmfontdl_1.0.6_iphoneos-arm.deb",
+        "sha256": "a9db96b844490f25f11f8e4cd84d7023032002854cf83224dbe1e5dd2fe2dd24"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojisearchforipad",
+    "project": "Emoji-Search-for-iPad",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/Emoji-Search-for-iPad",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-Emoji-Search-for-iPad-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojisearchforipad_1.0.0_iphoneos-arm.deb",
+        "sha256": "ea10614fc45c599196ac69fe3d9d235a41be6c0438eba2519292b8d59cb10932"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojidarkstyle",
+    "project": "EmojiDarkStyle",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiDarkStyle",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiDarkStyle-MIT.txt",
+    "builds": [
+      {
+        "version": "1.1.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojidarkstyle_1.1.0_iphoneos-arm.deb",
+        "sha256": "93c32dedc81b6e8fffbe22bedcde2b23e2f670bb257c02d4a98a8b5e5af7c315"
+      },
+      {
+        "version": "1.1.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.emojidarkstyle_1.1.0_iphoneos-arm64.deb",
+        "sha256": "022aaa5d75f25b9536f8767e54a84ba707f8c88da112db619a485f0c2d12441a"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojilibrary",
+    "project": "EmojiLibrary",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiLibrary",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiLibrary-MIT.txt",
+    "builds": [
+      {
+        "version": "1.8.0~b7",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojilibrary_1.8.0~b7_iphoneos-arm.deb",
+        "sha256": "dd2ba59857922eda5174e467d3674f31ced91db5dc85adf52efc2925ef3e9b57"
+      },
+      {
+        "version": "1.8.0~b7",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.emojilibrary_1.8.0~b7_iphoneos-arm64.deb",
+        "sha256": "42898b2ff23da031b415e065c0345f375194bd69983ce70f0d3a6faf49cfc2ff"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojilocalization",
+    "project": "EmojiLocalization",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiLocalization",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiLocalization-MIT.txt",
+    "builds": [
+      {
+        "version": "1.1.3",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojilocalization_1.1.3_iphoneos-arm.deb",
+        "sha256": "483cefcc3217888a469e58b5cc1c68486f68111c7a8db8bd85413c9d07a6fe81"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojiportalpha",
+    "project": "EmojiPort-Alpha",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiPort-Alpha",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiPort-Alpha-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.12",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojiportalpha_1.0.12_iphoneos-arm.deb",
+        "sha256": "2c9064a402404d568a1f15724702b492556477df9334e4ebf6fb79f59a2e6364"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojiportlegacy",
+    "project": "EmojiPort-Legacy",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiPort-Legacy",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiPort-Legacy-MIT.txt",
+    "builds": [
+      {
+        "version": "1.8.10",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.emojiportlegacy_1.8.10_iphoneos-arm64.deb",
+        "sha256": "79b390edb7f82a4198ac0d1a9ea2b2b2215b4f042095ccdfe7da0aba5894a759"
+      },
+      {
+        "version": "1.8.10",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojiportlegacy_1.8.10_iphoneos-arm.deb",
+        "sha256": "5f13ffed0d14c9c87eba376f2d4b312d18836be1387327a807b43ae5a3e4a819"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojiportpe",
+    "project": "EmojiPort-PE",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiPort-PE",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiPort-PE-MIT.txt",
+    "builds": [
+      {
+        "version": "1.8.3",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojiportpe_1.8.3_iphoneos-arm.deb",
+        "sha256": "4c4298eb07812255741eb72f9abc17aa7343ec9ab3388197616608cc6abc3894"
+      },
+      {
+        "version": "1.8.3",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.emojiportpe_1.8.3_iphoneos-arm64.deb",
+        "sha256": "d03e1d5129b07570ad88d34a16e771bd3356d9f46dae3b84c1d3dbe55568f619"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojiportps",
+    "project": "EmojiPort-PS",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiPort-PS",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiPort-PS-MIT.txt",
+    "builds": [
+      {
+        "version": "1.7.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojiportps_1.7.1_iphoneos-arm.deb",
+        "sha256": "43b62a77e7557a58953fa04061d7f358ca3c3c39b7566c0a335913b7de95500c"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojiportwt",
+    "project": "EmojiPort-WT",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiPort-WT",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiPort-WT-MIT.txt",
+    "builds": [
+      {
+        "version": "1.4.3",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojiportwt_1.4.3_iphoneos-arm.deb",
+        "sha256": "3813fac2f798000c3e38fad1ca173af445623205d21e2ba464b62ce1b215e295"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.emojiresources",
+    "project": "EmojiResources",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiResources",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiResources-MIT.txt",
+    "builds": [
+      {
+        "version": "1.3.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.emojiresources_1.3.0_iphoneos-arm.deb",
+        "sha256": "2cbde77f27a4c5031bf55bb97dc62119822944524ec4f1b0ce386106b3602451"
+      },
+      {
+        "version": "1.3.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.emojiresources_1.3.0_iphoneos-arm64.deb",
+        "sha256": "2e7db0821c44a47225f39d84f7fdfabd50d02d2a2a661f7ecda268af50d0e1ef"
+      }
+    ]
+  },
+  {
+    "package": "com.vxbakerxv.emojiskinprefs",
+    "project": "EmojiSkinPrefs",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/EmojiSkinPrefs",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-EmojiSkinPrefs-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.vxbakerxv.emojiskinprefs_1.0.1_iphoneos-arm64.deb",
+        "sha256": "e780306d7342bb3bf7913561c539c798ca5868a5072341d70e8984c01677fdbd"
+      },
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.vxbakerxv.emojiskinprefs_1.0.1_iphoneos-arm.deb",
+        "sha256": "a958d90ada518cc5dc7413343186118eddf5c35935ca2e65c22a509efb763d39"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.expandedclassicscreen",
+    "project": "ExpandedClassicScreen",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/ExpandedClassicScreen",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-ExpandedClassicScreen-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.expandedclassicscreen_1.0.0_iphoneos-arm64.deb",
+        "sha256": "9ff28b011b62c4ae847683af44e55065e922b3ee8cde822e879c39b410ef8c25"
+      },
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.expandedclassicscreen_1.0.0_iphoneos-arm.deb",
+        "sha256": "c0875e47874428ef809f3c8ed276152d3771eb9fd22bbe7f28ef415c888de0fd"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.githublegacyfix",
+    "project": "GitHubLegacyFix",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/GitHubLegacyFix",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-GitHubLegacyFix-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.2",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.githublegacyfix_1.0.2_iphoneos-arm.deb",
+        "sha256": "c52fab1090ef66c67a433970dc3793d1fe254bdc9e02b896d12d7ba3f4101bd0"
+      },
+      {
+        "version": "1.0.2",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.githublegacyfix_1.0.2_iphoneos-arm64.deb",
+        "sha256": "e3ed2bcbd3458aa361256d975387a9b6564c4e65bec34d9aaa3fb8777d7956c9"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.githubweblegacycompat",
+    "project": "GitHubWebLegacyCompat",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/GitHubWebLegacyCompat",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-GitHubWebLegacyCompat-MIT.txt",
+    "builds": [
+      {
+        "version": "2.5.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.githubweblegacycompat_2.5.0_iphoneos-arm.deb",
+        "sha256": "64266fd553c649bbbfaf1e646615c1505b2a7cafe5f22a75a7bab1e754b04469"
+      },
+      {
+        "version": "2.5.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.githubweblegacycompat_2.5.0_iphoneos-arm64.deb",
+        "sha256": "df074500a336c79c5ea060398456407fe150530a62eabb1b221a6012d3f53d5a"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.hdavatar",
+    "project": "HD-Avatar",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/HD-Avatar",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-HD-Avatar-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.hdavatar_1.0.0_iphoneos-arm64.deb",
+        "sha256": "858fe7e53773f23cde5a6902f5363865057c78a2a53912c4082e166912649a4c"
+      },
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.hdavatar_1.0.0_iphoneos-arm.deb",
+        "sha256": "46020d8d02c8bb5c84e07ecd8c55665445353fc19bd8c1ce82afa13b1425e19d"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.highgraphics",
+    "project": "HighGraphics",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/HighGraphics",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-HighGraphics-MIT.txt",
+    "builds": [
+      {
+        "version": "1.1.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.highgraphics_1.1.1_iphoneos-arm.deb",
+        "sha256": "78ec6883cb3af70fc598b81b10132f8f92c722f2072297c806bc24c9d8af4889"
+      },
+      {
+        "version": "1.1.1",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.highgraphics_1.1.1_iphoneos-arm64.deb",
+        "sha256": "2c8d1c07e79888e8bdf88919bbe0e53ec45b97fbd5921baca52d1778f16b44f8"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.igclassiclayout",
+    "project": "IGClassicLayout",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/IGClassicLayout",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-IGClassicLayout-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.2",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.igclassiclayout_1.0.2_iphoneos-arm.deb",
+        "sha256": "760b2a379e1d7c09027a688c694f52161fa7e101707a074e1fccfc1cd9f78c6c"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.igetmorechoices",
+    "project": "IGetMoreChoices",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/IGetMoreChoices",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-IGetMoreChoices-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.igetmorechoices_1.0.0_iphoneos-arm.deb",
+        "sha256": "400bb548ae517f07bf710efbc6bdbfe295205699b186f383e115102745a10fc9"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.igotallemojis",
+    "project": "IGotAllEmojis",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/IGotAllEmojis",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-IGotAllEmojis-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.igotallemojis_1.0.1_iphoneos-arm.deb",
+        "sha256": "4387a4f2ac2e173f8618e139a6f40caad84762db6d98ce554285a7802b25ff1a"
+      },
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.igotallemojis_1.0.1_iphoneos-arm64.deb",
+        "sha256": "2db2c39f07520d16976f8071e87ec4e7552df79c3b1f8ccffa2cae43474e8cc0"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.igotnosecret",
+    "project": "IGotNoSecret",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/IGotNoSecret",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-IGotNoSecret-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.igotnosecret_1.0.0_iphoneos-arm64.deb",
+        "sha256": "a017afbf7dcd756cb4c8994b87f206d0b25a62efba81d81fb8628ea48efc124b"
+      },
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.igotnosecret_1.0.0_iphoneos-arm.deb",
+        "sha256": "06acaf670675418d0b2c4344c351340da78d995f3b5bca4a26c4cfd1e6b64944"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.injectionfoundation",
+    "project": "Injection-Foundation",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/Injection-Foundation",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-Injection-Foundation-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.injectionfoundation_1.0.1_iphoneos-arm.deb",
+        "sha256": "78644cd2c0783ed8a9680990cb9e5b6ba0d2e3e2f919b0309ca08678fc3c330c"
+      },
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.injectionfoundation_1.0.1_iphoneos-arm64.deb",
+        "sha256": "9c28c04249d89ca40c0924ec40a081156e5c3ba769171181546ab9fdb80f4893"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.internalphotos",
+    "project": "InternalPhotos",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/InternalPhotos",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-InternalPhotos-MIT.txt",
+    "builds": [
+      {
+        "version": "1.3.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.internalphotos_1.3.0_iphoneos-arm.deb",
+        "sha256": "52968ba33b587c23b3a84db8d9d205caf68c0d3236195a6c61fc7fa74fb40529"
+      },
+      {
+        "version": "1.3.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.internalphotos_1.3.0_iphoneos-arm64.deb",
+        "sha256": "40e6dc91e5eeb2d799c4da86fb99de5e2997beba612ea9ce631948ee1199ebe0"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.lpmenabler",
+    "project": "LPM-Enabler",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/LPM-Enabler",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-LPM-Enabler-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.lpmenabler_1.0.1_iphoneos-arm.deb",
+        "sha256": "21a3e9e7ff51f132f1484be2f41712512b0f2ccbd8a9415fcafe7a1ce319b5d0"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.noaneemojisticker",
+    "project": "NoANEEmojiSticker",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/NoANEEmojiSticker",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-NoANEEmojiSticker-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.noaneemojisticker_1.0.0_iphoneos-arm64.deb",
+        "sha256": "b35a5c95c57d17a94f00f5b684b6552d64e1d4ee3ab19250d3c02d1e35eb8863"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.noswiftatruntime",
+    "project": "NoSwiftAtRuntime",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/NoSwiftAtRuntime",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-NoSwiftAtRuntime-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.2",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.noswiftatruntime_1.0.2_iphoneos-arm.deb",
+        "sha256": "6ab661e402f094cc45f846a719dbddeb69177cfa31a8b136433ba56ad8080a2c"
+      },
+      {
+        "version": "1.0.2",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.noswiftatruntime_1.0.2_iphoneos-arm64.deb",
+        "sha256": "2c7954fbee62a8c3f6cabb8a0b3c65c36fb48f7e215e48c0547a07240d64ef65"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.nottodayhomescreensidebar",
+    "project": "NotTodayHomeScreenSideBar",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/NotTodayHomeScreenSideBar",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-NotTodayHomeScreenSideBar-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.nottodayhomescreensidebar_1.0.0_iphoneos-arm.deb",
+        "sha256": "0c2890335b00baa16f609982622c1a3e3cc72b9b743684c7b91fb2f9b88278fb"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.noytmpremium",
+    "project": "NoYTMPremium",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/NoYTMPremium",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-NoYTMPremium-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.2",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.noytmpremium_1.0.2_iphoneos-arm64.deb",
+        "sha256": "e5cf94b859354301727d9ae242026998050769fe58e506fa9b4ad1406d0ab272"
+      },
+      {
+        "version": "1.0.2",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.noytmpremium_1.0.2_iphoneos-arm.deb",
+        "sha256": "2a5725940ed65ebc9d765d889361885e39a54e704b8654cebf5fe0856d3eb43b"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.noytpremium",
+    "project": "NoYTPremium",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/NoYTPremium",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-NoYTPremium-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.7",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.noytpremium_1.0.7_iphoneos-arm64.deb",
+        "sha256": "2058d61d38b9aba8b69f35ab85d0e4cdd40498a40ed2037ebdf1ff4b9fbdf61b"
+      },
+      {
+        "version": "1.0.7",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.noytpremium_1.0.7_iphoneos-arm.deb",
+        "sha256": "37587a7e3d3e1b6c42ca855f607bbb9dcac13ac8ebfcdc6c9072667a0ed4f51f"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.padgrid",
+    "project": "PadGrid",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/PadGrid",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-PadGrid-MIT.txt",
+    "builds": [
+      {
+        "version": "1.2.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.padgrid_1.2.0_iphoneos-arm.deb",
+        "sha256": "8eea6067b919bf622829940139dd26ecd05f3ba78f0bb9718ee7af075deb1e72"
+      },
+      {
+        "version": "1.2.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.padgrid_1.2.0_iphoneos-arm64.deb",
+        "sha256": "e2246f7d79b2c9c54da737f120e087121d2c648fdc0b7eb0be1581eac0a76116"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.pearltracking",
+    "project": "PearlTracking",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/PearlTracking",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-PearlTracking-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.pearltracking_1.0.0_iphoneos-arm.deb",
+        "sha256": "fcee8ef135dd09f8865fb41d62a641a7be8b2fcd6d09d36aa9ea27583d7ff3f0"
+      },
+      {
+        "version": "1.0.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.pearltracking_1.0.0_iphoneos-arm64.deb",
+        "sha256": "884097ffdb21b5e6149ce46619552b5d3cd553ed40678431bc6e583de31b780a"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.pencilpro",
+    "project": "PencilPro",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/PencilPro",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-PencilPro-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.pencilpro_1.0.1_iphoneos-arm64.deb",
+        "sha256": "0ad0f037abd1dfd8a006632af8d11b9471afd19c5ff302e3b8c3a0e6add88ffc"
+      },
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.pencilpro_1.0.1_iphoneos-arm.deb",
+        "sha256": "244c6e048a87155977e95d258672507ce64a803dde9fdfb85d484539b1853211"
+      }
+    ]
+  },
+  {
+    "package": "com.spicat.phototorch",
+    "project": "PhotoTorch",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/PhotoTorch",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-PhotoTorch-MIT.txt",
+    "builds": [
+      {
+        "version": "1.7.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.spicat.phototorch_1.7.1_iphoneos-arm.deb",
+        "sha256": "c25d4879fa0e761b7cc0461b62d8933c9654d23c98adf37cb127358e58262cf6"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.polyfills",
+    "project": "Polyfills",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/Polyfills",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-Polyfills-MIT.txt",
+    "builds": [
+      {
+        "version": "2.36.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.polyfills_2.36.1_iphoneos-arm.deb",
+        "sha256": "5bc03205448aa516b913e99fed8a8b0e631af0f5c73548b20a28c23766a9d514"
+      },
+      {
+        "version": "2.36.1",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.polyfills_2.36.1_iphoneos-arm64.deb",
+        "sha256": "a1ce5eb5fe60f22a43cebc06aac9ccf5325a5a5a04b8920dcf2a172d6ba574ce"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.quadhighcurrent",
+    "project": "QuadHighCurrent",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/QuadHighCurrent",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-QuadHighCurrent-MIT.txt",
+    "builds": [
+      {
+        "version": "1.1.4",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.quadhighcurrent_1.1.4_iphoneos-arm.deb",
+        "sha256": "805cb1225905e0e649eece3ebc24f051f3ac35924ec4182ee618f4c400ceb69e"
+      },
+      {
+        "version": "1.1.4",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.quadhighcurrent_1.1.4_iphoneos-arm64.deb",
+        "sha256": "22980124aa0b467246a1b53a5dcee54bcf22dd91b96f272df54e0eae320241b4"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.quicknotesenabler",
+    "project": "QuickNotesEnabler",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/QuickNotesEnabler",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-QuickNotesEnabler-MIT.txt",
+    "builds": [
+      {
+        "version": "1.2.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.quicknotesenabler_1.2.0_iphoneos-arm64.deb",
+        "sha256": "e305ba46b2af30cd62cb438f13ec6959302d2cc36df9071c879b087b8d5fe087"
+      },
+      {
+        "version": "1.2.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.quicknotesenabler_1.2.0_iphoneos-arm.deb",
+        "sha256": "1899979aaa1e049259eae0a39d6c4c6a93c11634731df7774c2f36a5ec7c4e4a"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.recordntorch",
+    "project": "Record--n--Torch",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/Record--n--Torch",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-Record--n--Torch-MIT.txt",
+    "builds": [
+      {
+        "version": "1.8.4",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.recordntorch_1.8.4_iphoneos-arm64.deb",
+        "sha256": "7cd580ff7014d27267118cbf25bbfb8c6a23e3bd61b6fe61c84f776793c533ca"
+      },
+      {
+        "version": "1.8.4",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.recordntorch_1.8.4_iphoneos-arm.deb",
+        "sha256": "11f15d95bdc37f6adce4bccdf05168d7145174f86cd3045c097f3cd5ddec6567"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.sfsymbols",
+    "project": "SFSymbols",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/SFSymbols",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-SFSymbols-MIT.txt",
+    "builds": [
+      {
+        "version": "1.2.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.sfsymbols_1.2.0_iphoneos-arm64.deb",
+        "sha256": "93362c077a331be257abf92d53198e16baa35e998d4e3a84b893720dce6f83ce"
+      },
+      {
+        "version": "1.2.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.sfsymbols_1.2.0_iphoneos-arm.deb",
+        "sha256": "5c5672449f506ba5465beaad49b210571a1ebd7eaad345ee680241588100204b"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.smoothcursorios13",
+    "project": "SmoothCursor",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/SmoothCursor",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-SmoothCursor-MIT.txt",
+    "builds": [
+      {
+        "version": "0.0.1",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64.deb",
+        "sha256": "a0d6d8dccd184fae9ccde5da0babe9b51af62312a862ad17eccf5d5e0bbe1e5b"
+      },
+      {
+        "version": "0.0.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm.deb",
+        "sha256": "7b9be90adb0cdd24a4f9f32f6aee378f11228bee8acae0db69ef2a28e5ad5ef5"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.steamweblegacycompat",
+    "project": "SteamWebLegacyCompat",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/SteamWebLegacyCompat",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-SteamWebLegacyCompat-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.steamweblegacycompat_1.0.1_iphoneos-arm64.deb",
+        "sha256": "92a94a698ea2c4df66da829ed1857e112bf0fded71304afd4415c80977608aaf"
+      },
+      {
+        "version": "1.0.1",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.steamweblegacycompat_1.0.1_iphoneos-arm.deb",
+        "sha256": "7b75b90a02a01864eb117079c35fd3f23c75551985521098486f35066ed77295"
+      }
+    ]
+  },
+  {
+    "package": "org.thebigboss.swipeformore",
+    "project": "SwipeForMore",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/SwipeForMore",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-SwipeForMore-MIT.txt",
+    "builds": [
+      {
+        "version": "1.2.5",
+        "architecture": "iphoneos-arm",
+        "file": "debs/org.thebigboss.swipeformore_1.2.5_iphoneos-arm.deb",
+        "sha256": "8ddd5fb1c7eb3d8b40e55b64b25e75c7117a04cfbd702ff3a22b939d53ffe76a"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.tapvideoconfig",
+    "project": "TapVideoConfig",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/TapVideoConfig",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-TapVideoConfig-MIT.txt",
+    "builds": [
+      {
+        "version": "1.0.4",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.tapvideoconfig_1.0.4_iphoneos-arm.deb",
+        "sha256": "b921ae923622ef3dcb6708aadf353af50ce0cfef129fe0314175f108841c1aa6"
+      },
+      {
+        "version": "1.0.4",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.tapvideoconfig_1.0.4_iphoneos-arm64.deb",
+        "sha256": "1cf74f920cbfbbe0e685f542d4b6af71901f65f77217b7d34d70299eeda0f62e"
+      }
+    ]
+  },
+  {
+    "package": "com.spicat.transparentcamerabar",
+    "project": "TransparentCameraBar",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/TransparentCameraBar",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-TransparentCameraBar-MIT.txt",
+    "builds": [
+      {
+        "version": "1.8",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.spicat.transparentcamerabar_1.8_iphoneos-arm.deb",
+        "sha256": "36fa5d7e9d8882ddd4b65633fee612d4504a0da25bb4709dc876ee8ccf03b58b"
+      }
+    ]
+  },
+  {
+    "package": "com.ps.trollleds",
+    "project": "TrollLEDs",
+    "author": "PoomSmart",
+    "source": "https://github.com/PoomSmart/TrollLEDs",
+    "repository": "https://poomsmart.github.io/repo/",
+    "license": "licenses/PoomSmart-TrollLEDs-MIT.txt",
+    "builds": [
+      {
+        "version": "1.13.0",
+        "architecture": "iphoneos-arm64",
+        "file": "debs/com.ps.trollleds_1.13.0_iphoneos-arm64.deb",
+        "sha256": "8fbbf7cbdaddb97f0d27c45310185ef436eca6f21a15d73f469d9d1a934add7f"
+      },
+      {
+        "version": "1.13.0",
+        "architecture": "iphoneos-arm",
+        "file": "debs/com.ps.trollleds_1.13.0_iphoneos-arm.deb",
+        "sha256": "5a2120fd3bdc955d214be9281116497d534549074ec77729faa65c87eab7d86d"
+      }
+    ]
+  }
+]
